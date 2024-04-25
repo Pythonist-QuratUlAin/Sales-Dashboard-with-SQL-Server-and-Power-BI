@@ -43,10 +43,8 @@ Step-by-Step Process:
       	categ.category_name,
       	stor.store_name,
       	CONCAT (rep.first_name,' ' , rep.last_name)
-      ![2024-04-26_003453](https://github.com/Pythonist-QuratUlAin/Sales-Dashboard-with-SQL-Server-and-Power-BI/assets/109209138/e9ed1ba0-26df-41e1-9653-12c3f069a280)
+![2024-04-26_003453](https://github.com/Pythonist-QuratUlAin/Sales-Dashboard-with-SQL-Server-and-Power-BI/assets/109209138/e9ed1ba0-26df-41e1-9653-12c3f069a280)
 
 
      Power BI Dashboard:
-    ![2024-04-26_003528](https://github.com/Pythonist-QuratUlAin/Sales-Dashboard-with-SQL-Server-and-Power-BI/assets/109209138/9fb76a28-7d1b-4fed-8d35-a82fee8df99d)
-
-        Evaluate key metrics such as revenue, profit margins, customer acquisition, etc.
+ ![2024-04-26_003528](https://github.com/Pythonist-QuratUlAin/Sales-Dashboard-with-SQL-Server-and-Power-BI/assets/109209138/9fb76a28-7d1b-4fed-8d35-a82fee8df99d)
